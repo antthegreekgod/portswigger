@@ -1,0 +1,4 @@
+'"`{
+;$Foo}
+$Foo \xYZ
+'\"`{\r;$Foo}\n$Foo \\xYZ\u0000
